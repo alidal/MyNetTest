@@ -1,0 +1,10 @@
+Proje Ali Dal tarafından yazılmıştır.
+
+Unity 2019.3.2 sürümü ile geliştirilmiştir. 
+Projeyi çalıştırmak için Assets\Scenes klasöründe Game sahnesi açılmalı ve Unity üzerinden Play'e basılmalıdır. 
+Projenin herhangi bir build'i yaratılmadı, eğer istenirse lütfen belirtin
+maydayalish@gmail.com
+
+İyi çalışmalar dilerim
+Ali Dal
+Game Developer
